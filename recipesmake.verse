@@ -4,6 +4,9 @@ using { /UnrealEngine.com/Temporary/Diagnostics }
 using { /Fortnite.com/Characters }
 using { /UnrealEngine.com/Temporary/SpatialMath }
 
+#disclaimer  : don't take this code as a reference, i'm very new at coding
+and just want to help the community and encourage new mechanics
+
 
 RecipeIndex:= class<concrete>():
 
